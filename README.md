@@ -7,12 +7,11 @@ I have decided to take this class because web design and development is a skill 
 
 ---
 ### My Resources
-I couldnt find anything on the course textbook so im going to list the resources part from the website.
 
-*Resources* - **Justine**
+*HTML & CSS* - **John Duckett's**
 
 ```
-*Resources* - **Justine**
+*HTML & CSS* - **John Duckett's**
 ```
 [Course Website Link](https://media-ed-online.github.io/intro-web-dev/)
 
